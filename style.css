@@ -71,3 +71,16 @@
      .experience {
          text-indent:20px;
      }
+
+     .center-button{
+         position:relative;
+         left:46%;
+     }
+
+     .contacts{
+         text-align:center;
+     }
+
+     .colored-contact{
+         background-color:rgb(91, 171, 198)
+     }
