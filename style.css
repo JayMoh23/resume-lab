@@ -1,0 +1,73 @@
+/* Old Code
+.nav-wrapper {
+    background-color:rgb(91, 171, 198);
+    overflow:hidden;
+}
+ 
+
+ .topnav {
+     display: block;
+     color: #f2f2f2;
+     text-align: center;
+     padding: 30px;
+     font-size: 18px;
+     text-decoration-color: whitesmoke;
+     
+     
+
+ }
+
+
+
+ .topnav a{
+     color:white;
+     z-index: 3;
+     font-kerning: 5;
+     word-spacing: 50px;
+     padding:20px;
+
+
+ h2, h3, h4 {
+     text-align:center;
+     
+ }
+
+ .about-me{
+     border-bottom:2px solid black;
+     border-top:2px solid black;
+     */
+
+
+     /* New Code */
+
+     .text-center h1,
+     .text-center h2,
+     .text-center h4 {
+         text-align:center;
+     }
+
+     .under-upper {
+         border-bottom:2px solid black;
+         border-top:2px solid black;
+     }
+
+     .par{
+         display: inline-flex;
+         word-wrap: break-word;
+     }
+/*    NAV   */
+     nav .nav-wrapper ul {
+         height: 100%;
+         text-align: center;
+     }
+
+     nav .nav-wrapper ul li {
+         float: none;
+         display: inline-block;
+     }
+
+
+
+     .experience {
+         text-indent:20px;
+     }
