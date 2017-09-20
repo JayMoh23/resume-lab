@@ -47,8 +47,8 @@
      }
 
      .under-upper {
-         border-bottom:2px solid black;
-         border-top:2px solid black;
+         border-bottom:2px solid rgb(91, 171, 198);
+         border-top:2px solid rgb(91, 171, 198);
      }
 
      .par{
@@ -79,12 +79,26 @@
 
      .contacts{
          text-align:center;
+         padding-top: 25px;
+         border-top: 3px solid rgb(91, 171, 198);
+         margin-top: 25px;
+         color: rgb(91, 171, 198);
      }
 
      .colored-contact{
          background-color:rgb(91, 171, 198);
+         border:30px;
+         margin:30x;
+         padding:30px;
+         padding-right:20px;
+         padding-left:20px;
+         
      }
 
      .nav-color{
          background-color: rgb(91, 171, 198);
+     }
+
+     .timeline-color{
+         color:rgb(91, 171, 198);
      }
